@@ -1,0 +1,31 @@
+{
+  "none": {
+    "featured": "",
+    "href": "",
+    "title": "",
+    "content": "",
+    "cat-links": ""
+  },
+  "audio": {
+    "audio-file": ""
+  },
+  "video": {
+    "video-file": ""
+  },
+  "bid-slider": {
+    "href": 3,
+    "title": 3,
+    "author": 3,
+    "date": 3,
+    "featured": 3
+  },
+  "gallery": {
+    "featured": 3,
+  },
+  "link": {
+  },
+  "quote": {
+  },
+  "standard": {
+  }
+}
